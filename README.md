@@ -19,9 +19,9 @@ There are basically three types of Recommender Systems -
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This suggests similar items based on a given item. This method used the metadata, such as genres, director, actors etc. The basic idea behind this approach is, if a person likes a particular item, he/she will also like the items similar to it.
 
 ### 3. Collaborative Filtering
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This method matches the users and suggests the movies to a user that is liked by the other similar users or recommends the movies based on the past preferences.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This method matches the users and suggests the movies to a user that are liked by the other similar users or recommends the movies based on the past preferences.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp:In user based collaborative filtering, preferences can change over time. Recommendation based on neighboring users can lead to a bad performance of the system. So we prefer item based collaborative filtering.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In user based collaborative filtering, preferences can change over time. Recommendations based on neighboring users can lead to a bad performance of the system. So we prefer item based collaborative filtering.
 
 ## Technologies Used
 ### Python3 Libraries
